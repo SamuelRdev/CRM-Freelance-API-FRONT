@@ -1,1 +1,1 @@
-Front app run on React for API Plateform
+Front app for CRM-Freelance-API (API Plateform/Symfony API) run on React
